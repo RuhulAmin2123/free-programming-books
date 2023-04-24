@@ -46,6 +46,7 @@
 ### JavaScript
 
 * [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
+* [WordPress Custom Coded Full Stack Project with Javascript](https://doctlab.com) - Doctlab
 
 
 ### Machine Learning
